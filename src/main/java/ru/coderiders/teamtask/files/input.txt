@@ -1,0 +1,2 @@
+https://i.pinimg.com/originals/bc/39/a8/bc39a85ffc6d2e584f1437a23db05d8a.jpg src/main/java/ru/ci_group2/lab/files/
+https://ru.drivemusic.me/dl/Hu1UU3t9Qvh6EMAdLTCk8A/1639769791/download_music/2018/03/rick-astley-never-gonna-give-you-up.mp3 src/main/java/ru/ci_group2/lab/files/
